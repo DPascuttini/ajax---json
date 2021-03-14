@@ -14,5 +14,6 @@ function loadCustomer(e){
         }
     }
 
-    xhr.send()
+    xhr.send();
+    
 }
